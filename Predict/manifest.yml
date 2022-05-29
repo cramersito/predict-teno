@@ -1,0 +1,5 @@
+---
+applications:
+- name: app-predict
+  random-route: true
+  memory: 128M
